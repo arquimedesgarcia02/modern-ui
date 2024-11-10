@@ -16,21 +16,21 @@ export default function Hero() {
 
                 <Spotlight className="left-80 top-28 h-[60vh] w-[50vw]" fill="blue"/>
 
-                <div className="w-full absolute z-50 left-0 -top-72">
+                <div className="w-full absolute left-0 -top-72 z-20 min-h-96">
                     <img 
-                        src="footer-grid.svg"
+                        src="/footer-grid.svg"
                         alt="grid"
                         className="w-full h-full opacity-50"
                     />
                 </div>
             </div>
 
-            <div className="flex justify-center relative my-20 z-10">
+            <div className="flex justify-center relative my-20">
                 <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
                     <SparklesPreview title="Modern UI"/>
 
-                    <div className="mt-9">
-                        <a href="#about">
+                    <div className="mt-9 z-50">
+                        <a href="#experience">
                             <MagicButton 
                                 title="Show more"
                                 position="right"
