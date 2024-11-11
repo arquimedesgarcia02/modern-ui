@@ -5,6 +5,7 @@ import { navItems } from "../../data";
 import Projects from "@/components/Projects";
 import { CanvasRevealEffectDemo } from "@/components/CanvasRevealEffectDemo";
 import Clients from "@/components/Clients";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Projects/>
         <CanvasRevealEffectDemo/>
         <Clients/>
+        <Contact/>
       </div>
     </main>
   );

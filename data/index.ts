@@ -125,3 +125,17 @@ export const clients = [
   }
 ];
 
+export const socialIcons = [
+  {
+    id: 1,
+    img: "/git.svg"
+  },
+  {
+    id: 1,
+    img: "/twit.svg"
+  },
+  {
+    id: 1,
+    img: "/link.svg"
+  },
+];
