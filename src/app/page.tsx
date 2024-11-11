@@ -3,6 +3,7 @@ import Features from "@/components/Features";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems } from "../../data";
 import Projects from "@/components/Projects";
+import { CanvasRevealEffectDemo } from "@/components/CanvasRevealEffectDemo";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <Hero/>
         <Features/>
         <Projects/>
+        <CanvasRevealEffectDemo/>
       </div>
     </main>
   );
