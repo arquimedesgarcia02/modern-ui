@@ -7,7 +7,7 @@ export const features = [
     },
     {
       id: 2,
-      title: "Customizable Themes",
+      title: "Custom Themes",
       featureDesc: "Customizable themes to suit user preferences.",
       thumbnail: "02.svg",
     },
