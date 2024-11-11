@@ -8,8 +8,8 @@ export const navItems = [
     link: "#features",
   },
   {
-    name: "Pricing",
-    link: "#pricing",
+    name: "Projects",
+    link: "#projects",
   },
   {
     name: "About",
@@ -59,3 +59,37 @@ export const features = [
       thumbnail: "06.svg",
     }
 ];
+
+export const projects = [
+  {
+    id: 1,
+    title: "Portfolio Website",
+    description: "Create a sleek, modern portfolio to showcase your work with customizable sections and responsive design.",
+    img: "/project-1.jpg",
+  },
+  {
+    id: 2,
+    title: "E-commerce Dashboard",
+    description: "Build a powerful e-commerce dashboard with dynamic data visualizations and product management features.",
+    img: "/project-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Social Media Feed",
+    description: "Design a responsive and interactive social media feed with smooth animations and user-friendly navigation.",
+    img: "/project-3.jpg",
+  },
+  {
+    id: 4,
+    title: "Landing Page",
+    description: "Develop a visually appealing landing page with customizable themes, call-to-action buttons, and optimized layout.",
+    img: "/project-4.jpg",
+  },
+  {
+    id: 5,
+    title: "Blog Platform",
+    description: "Create a modern blog platform with sections for articles, comments, and user profiles with customizable layouts.",
+    img: "/project-5.jpg",
+  }
+];
+
