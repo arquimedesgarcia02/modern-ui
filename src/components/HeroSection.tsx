@@ -30,7 +30,7 @@ export default function Hero() {
                     <SparklesPreview title="Modern UI"/>
 
                     <div className="mt-9 z-50">
-                        <a href="#experience">
+                        <a href="#features">
                             <MagicButton 
                                 title="Show more"
                                 position="right"

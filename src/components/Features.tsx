@@ -3,7 +3,7 @@ import { Button } from "./ui/moving-border";
 
 export default function Features() {
     return (
-        <section id="experience" className="pt-60 pb-20 w-full">
+        <section id="features" className="pt-60 pb-20 w-full">
             <h1 className="heading text-white">
                 <span className="text-purple-300">Features</span>
             </h1>

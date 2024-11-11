@@ -1,3 +1,26 @@
+export const navItems = [
+  {
+    name: "Home",
+    link: "#home",
+  },
+  {
+    name: "Features",
+    link: "#features",
+  },
+  {
+    name: "Pricing",
+    link: "#pricing",
+  },
+  {
+    name: "About",
+    link: "#about",
+  },
+  {
+    name: "Contact",
+    link: "#contact",
+  }
+];
+
 export const features = [
     {
       id: 1,
