@@ -16,6 +16,10 @@ export const navItems = [
     link: "#pricing",
   },
   {
+    name: "Clients",
+    link: "#clients",
+  },
+  {
     name: "Contact",
     link: "#contact",
   }
@@ -90,6 +94,34 @@ export const projects = [
     title: "Blog Platform",
     description: "Create a modern blog platform with sections for articles, comments, and user profiles with customizable layouts.",
     img: "/project-5.jpg",
+  }
+];
+
+export const clients = [
+  {
+    name: "Alice Johnson",
+    title: "A game changer for my projects!",
+    quote: "Modern UI has completely transformed how I approach my design projects. The ease of use and beautiful templates save me so much time and make everything look professional.",
+  },
+  {
+    name: "Michael Thompson",
+    title: "Intuitive and powerful!",
+    quote: "I was amazed at how intuitive the platform is. Modern UI offers powerful tools that make creating stunning interfaces simple, even for someone new to design.",
+  },
+  {
+    name: "Sophia Lee",
+    title: "Highly recommend!",
+    quote: "As a freelance designer, Modern UI is now my go-to tool for client projects. It’s versatile, and my clients love the clean, modern aesthetic it provides.",
+  },
+  {
+    name: "James Anderson",
+    title: "A must-have for designers.",
+    quote: "Modern UI offers everything a designer could want in one platform. It has improved my workflow and the quality of my work. Highly recommended!",
+  },
+  {
+    name: "Emma Wilson",
+    title: "Incredible experience!",
+    quote: "Using Modern UI has been an incredible experience. I’ve built multiple projects with it, and each one turns out beautifully. It’s user-friendly, fast, and reliable.",
   }
 ];
 

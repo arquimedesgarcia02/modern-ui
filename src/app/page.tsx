@@ -4,6 +4,7 @@ import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems } from "../../data";
 import Projects from "@/components/Projects";
 import { CanvasRevealEffectDemo } from "@/components/CanvasRevealEffectDemo";
+import Clients from "@/components/Clients";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <Features/>
         <Projects/>
         <CanvasRevealEffectDemo/>
+        <Clients/>
       </div>
     </main>
   );
