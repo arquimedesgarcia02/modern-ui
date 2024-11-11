@@ -14,6 +14,12 @@ Clone the repository:
 git clone https://github.com/arquimedesgarcia02/modern-ui.git
 ```
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 Run the development server:
 
 ```bash
