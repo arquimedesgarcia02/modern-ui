@@ -1,8 +1,20 @@
+# Modern UI:
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Modern UI is a versatile and powerful tool that empowers developers and designers to create stunning, user-friendly interfaces with ease. Whether you're building a portfolio, a social media feed, or a responsive dashboard, Modern UI offers all the components and customization options you need to bring your projects to life.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
+
+```bash
+git clone https://github.com/arquimedesgarcia02/modern-ui.git
+```
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -16,21 +28,18 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing files in `src/app` folder. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Preview
 
-## Learn More
+Below is a preview of the project's home page
 
-To learn more about Next.js, take a look at the following resources:
+![AppPreview](./public/preview.PNG)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Live project preview:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Vercel]()
 
-## Deploy on Vercel
+## Original Project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This code in based on this [YouTube Video](https://www.youtube.com/watch?v=vaYGZ6kb0Nk). I watched the video and liked the project, and adapted it for my version. Check it out.
